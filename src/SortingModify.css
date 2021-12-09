@@ -1,0 +1,29 @@
+.barComponent {
+  position: absolute;
+  left: 400px;
+  bottom: 20px;
+}
+
+.bar {
+  width: 5px;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+/* Button {
+  position: absolute;
+  top: 10px;
+} */
+.generate_button {
+  position: absolute;
+  left: 50px;
+  top: 30px;
+  background-color: blueviolet;
+  color: blue;
+}
+.buttons {
+  top: 20px;
+  display: flex;
+  /* position: absolute; */
+  left: 1000px;
+}
